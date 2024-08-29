@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tajmirkhan515@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact: On weekends, I enjoy hiking and spend an hour at the gym in the evenings, where table tennis is my favorite game!**
+- **⚡ Fun fact: On weekends, I enjoy hiking and spend an hour at the gym in the evenings, where table tennis is my favorite game!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
