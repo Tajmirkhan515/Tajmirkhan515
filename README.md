@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at Quaid-e-Azam University, Islamabad, teaching Object-Oriented Programming (OOP), lab. Part-time, I am also participating in various international competitions. **OOP Subject, Falcon, Lama3 hackathon, NasaApp competition.**
+- 🔭 I’m currently working at Quaid-e-Azam University, Islamabad, teaching Object-Oriented Programming (OOP), lab. Part-time, I am also participating in various international competitions. [OOP Subject, Falcon, Lama3 hackathon, NasaApp competition.](https://lablab.ai/u/@tajmirkhan515923/cm0fh47v0008ve7ih12mw6dxf)
 
 - 🌱 I’m currently learning, and want more expertise in Python. **ML/DL, Djanog, Streamlit, etc.**
 
