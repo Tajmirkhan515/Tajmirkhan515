@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tajmir khan</h1>
-<h3 align="center">As an NLP researcher have good publications in reputable journals and substantial teaching experience. and have strong coding skills, showcased in my GitHub repository. Additionally, I have experience in blogging (OOP). Besides, I participated in international hackathons. Looking ahead, I am keen on continuing my research and publishing in esteemed journals</h3>
+<h3 >As an NLP researcher have good publications in reputable journals and substantial teaching experience. and have strong coding skills, showcased in my GitHub repository. Additionally, I have experience in blogging (OOP). Besides, I participated in international hackathons. Looking ahead, I am keen on continuing my research and publishing in esteemed journals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajmirkhan515&label=Profile%20views&color=0e75b6&style=flat" alt="tajmirkhan515" /> </p>
 
