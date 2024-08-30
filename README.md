@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf](https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf)
 
--  **⚡ Fun fact: On weekends, I enjoy hiking and spend an hour at the gym in the evenings, where table tennis is my favorite game!**
+-  **⚡ Fun fact: On weekends, I enjoy hiking. Daily, spend an hour at the gym in the evenings time, where table tennis is my favorite game!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
