@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at Quaid-e-Azam University, Islamabad, teaching Object-Oriented Programming (OOP), lab. Part-time, I am also participating in various international competitions. **OOP Subject, Falcon, Lama3 hackathon, NasaApp competition.**
 
-- 🌱 I’m currently learning, and want more expertise in python. **Djanog, Streamlit, etc.**
+- 🌱 I’m currently learning, and want more expertise in Python. **ML/DL, Djanog, Streamlit, etc.**
 
 - 📝 I have written a complete blog on Object-Oriented Programming. [https://cplusplusprogrammingforbeginner.blogspot.com/](https://cplusplusprogrammingforbeginner.blogspot.com/)
 
