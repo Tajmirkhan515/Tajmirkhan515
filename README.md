@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tajmirkhan515@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf](https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf)
+- 📄 Know about my experiences [CV](https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf)
 
 -  **⚡ Fun fact: On weekends, I enjoy hiking. Daily, spend an hour at the gym in the evenings time, where table tennis is my favorite game!**
 
