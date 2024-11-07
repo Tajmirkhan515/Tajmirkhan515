@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tajmir khan</h1>
-<h3 >As an NLP researcher have good publications in reputable journals and substantial teaching experience. and have strong coding skills, showcased in my GitHub repository. Additionally, I have experience in blogging (OOP). Besides, I participated in international hackathons. Looking ahead, I am keen on continuing my research and publishing in esteemed journals</h3>
+<h3 >As an NLP researcher, I have published my work in reputable journals and gained substantial teaching experience. My strong coding skills are reflected in the projects shared on this GitHub repository, which I now actively maintain. Although I initially underestimated GitHub's importance and ease of use.
+
+In addition to NLP, DSA, and LeetCode, as well as blogging (focused on OOP concepts), I have participated in international hackathons, which enhanced my technical expertise and teamwork abilities.
+
+Before 2020, I was an Android developer with a Google Play Store account, where I published six applications. After beginning my MPhil studies, I decided to focus on research and academics rather than earning. Unfortunately, my Play Store account was later banned. During this time, I also developed a Java desktop application for laboratory use, further strengthening my programming foundation.
+
+Looking ahead, I am committed to advancing my research in NLP and machine learning using Python, developing impactful applications, and contributing to cutting-edge publications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajmirkhan515&label=Profile%20views&color=0e75b6&style=flat" alt="tajmirkhan515" /> </p>
 
