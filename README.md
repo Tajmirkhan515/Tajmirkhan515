@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tajmir khan</h1>
-<h3 style="text-align: justify;" >As an NLP researcher, I have published my work in reputable journals and gained substantial teaching experience. My strong coding skills are reflected in the projects shared on this GitHub repository, which I now actively maintain. Although I initially underestimated GitHub's importance and ease of use.
+<h3 style="text-align: justify;" >I have substantial teaching experience and have published my work in respectable journals as an NLP researcher. The projects shared on this GitHub repository, which I now actively maintain, demonstrate my strong coding abilities. Even so, I initially misjudged GitHub's significance and usability.
+  
+Along with blogging about OOP concepts, NLP, DSA, and LeetCode, I have also taken part in international hackathons, which have improved my technical proficiency and collaboration skills.
 
-In addition to NLP, DSA, and LeetCode, as well as blogging (focused on OOP concepts), I have participated in international hackathons, which enhanced my technical expertise and teamwork abilities.
-
-Before 2020, I was an Android developer with a Google Play Store account, where I published six applications. After beginning my MPhil studies, I decided to focus on research and academics rather than earning. Unfortunately, my Play Store account was later banned. During this time, I also developed a Java desktop application for laboratory use, further strengthening my programming foundation.
-
-Looking ahead, I am committed to advancing my research in NLP and machine learning using Python, developing impactful applications, and contributing to cutting-edge publications.</h3>
+Prior to 2020, I worked as an Android developer and published six apps on the Google Play Store. After starting my MPhil, I made the decision to prioritize academics and research over making money. Regretfully, I later had my Play Store account banned. I also strengthened my programming foundation during this time by creating a Java desktop application for use in a lab.
+I'm inspired to use Python to further my NLP and machine learning research, create useful applications, and contribute to innovative publications in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajmirkhan515&label=Profile%20views&color=0e75b6&style=flat" alt="tajmirkhan515" /> </p>
 
@@ -13,18 +12,18 @@ Looking ahead, I am committed to advancing my research in NLP and machine learni
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at Quaid-e-Azam University, Islamabad, teaching Object-Oriented Programming (OOP), lab. Part-time, I am also participating in various international competitions. [OOP Subject, Falcon, Lama3 hackathon, NasaApp competition.](https://lablab.ai/u/@tajmirkhan515923/cm0fh47v0008ve7ih12mw6dxf)
+- 🔭 I currently teach Object-Oriented Programming (OOP) in the lab at Quaid-e-Azam University in Islamabad. I also compete internationally on a part-time basis. [OOP Subject, Falcon, Lama3 hackathon, NasaApp competition.](https://lablab.ai/u/@tajmirkhan515923/cm0fh47v0008ve7ih12mw6dxf)
 
-- 🌱 I’m currently learning, and want more expertise in Python. **ML/DL, Djanog, Streamlit, etc.**
+-  I’m currently learning, and want more expertise in Python. **ML/DL, Djanog, Streamlit, etc.**
 
-- 📝 I have written a complete blog on Object-Oriented Programming. [https://cplusplusprogrammingforbeginner.blogspot.com/](https://cplusplusprogrammingforbeginner.blogspot.com/)
+- I have written a complete blog on Object-Oriented Programming. [https://cplusplusprogrammingforbeginner.blogspot.com/](https://cplusplusprogrammingforbeginner.blogspot.com/)
 
-- 📫 How to reach me **tajmirkhan515@gmail.com**
+- How to reach me **tajmirkhan515@gmail.com**
 
-- 📄 Know about my experiences [CV](https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf)
+- Know about my experiences [CV](https://github.com/Tajmirkhan515/Tajmirkhan515/blob/main/tajmir%20khan.pdf)
 -  Know about my experiences [Portfolio](https://tajmirkhan515.github.io/)
 
--  **⚡ Fun fact: On weekends, I enjoy hiking. Daily, spend an hour at the gym in the evenings time, where table tennis is my favorite game!**
+-  ** Fun fact: On weekends, I enjoy hiking. Daily, spend an hour at the gym in the evenings time, where table tennis is my favorite game!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
